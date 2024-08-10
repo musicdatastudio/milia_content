@@ -17,8 +17,8 @@ The primary purpose of `milia_content` is to provide a centralized and easily ma
   
 2. **Accessing Content**:
    - The Milia application dynamically loads the content using URLs that point to specific files within the `milia_content` repository. For example:
-	 - `https://musicdatastudio.github.io/milia_content/welcome_subject.txt` for the email subject.
-	 - `https://musicdatastudio.github.io/milia_content/welcome_content.html` for the email body.
+	 - `https://static.milia.app/welcome_subject.txt` for the email subject.
+	 - `https://static.milia.app/welcome_content.html` for the email body.
   
 3. **Version Control**:
    - Since the content is stored in a GitHub repository, all changes are tracked, and previous versions can be restored if necessary. This allows for safer and more organized content management.
@@ -42,4 +42,4 @@ The primary purpose of `milia_content` is to provide a centralized and easily ma
 
 ### Accessing the Repository
 You can access the content directly via the following URL:
-- [milia_content on GitHub Pages](https://musicdatastudio.github.io/milia_content/)
+- [milia_content on GitHub Pages](https://static.milia.app/)

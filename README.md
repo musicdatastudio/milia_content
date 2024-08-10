@@ -40,6 +40,6 @@ The primary purpose of `milia_content` is to provide a centralized and easily ma
   <p>We are thrilled to have you with us!</p>
   ```
 
-### Accessing the Repository
-You can access the content directly via the following URL:
-- [milia_content on GitHub Pages](https://static.milia.app/)
+  ### Accessing the Repository
+  You can access the content directly via the following URL:
+  - [milia_content on GitHub Pages](https://musicdatastudio.github.io/milia_content/)
